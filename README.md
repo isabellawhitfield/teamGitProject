@@ -5,3 +5,4 @@ Clone this repository to your prefered location using the following command.
 
 git clone https://github.com/isabellawhitfield/teamGitProject.git
 
+
