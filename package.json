@@ -1,0 +1,30 @@
+{
+  "name": "teamgitproject",
+  "version": "1.0.0",
+  "description": "Read these instructions to run your project.",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1",
+    "save": "^2.4.0",
+    "save-dev": "0.0.1-security"
+  },
+  "devDependencies": {
+    "@popperjs/core": "^2.0.6",
+    "grunt": "^1.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isabellawhitfield/teamGitProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isabellawhitfield/teamGitProject/issues"
+  },
+  "homepage": "https://github.com/isabellawhitfield/teamGitProject#readme"
+}
